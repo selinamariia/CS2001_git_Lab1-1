@@ -45,3 +45,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+2011203 | Fast & Furious 8 | 2017
+2011203 | The Conjuring 2| 2016
+2011203 | Spiderman - Far From Home | 2019
+2011203 | The Dark Knight | 2008
+2011203 | Blitz | 2012
