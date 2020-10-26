@@ -26,3 +26,10 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+
+
+1506575 | Avengers End Game | 2019
+1506575 | Black Panther | 2018
+1506575 | 3 Idiots | 2009 | 
+1506575 | Jurassic Park 1 | 1992
+1506575 | Joker | 2019 
