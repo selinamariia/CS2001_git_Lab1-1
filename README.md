@@ -45,3 +45,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1821676 | Mad Max Fury Road |2015
+1821676 | The Dark Knight | 2008
+1821676 | Inception | 2010
+1821676 | The Wolf of Wallstreet | 2013
+1821676 | Spider-Man: Homecoming | 2017
