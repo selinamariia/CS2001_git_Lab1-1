@@ -46,3 +46,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1920481 | The Wolf of Wallstreet | 2013
+1920481 | Shrek | 2001
+1920481 | Lone Survivor | 2013
+1920481 | 13 Hours: The Secret Soldiers | 2016
+1920481 | American Sniper | 2014
