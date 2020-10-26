@@ -19,7 +19,6 @@ Lets get started.
 
 ---
 
-
 Student ID | Movie | Year of Release
 --- | --- | ---
 1808245 | Dark Knight | 2009
@@ -27,6 +26,11 @@ Student ID | Movie | Year of Release
 1800000 | Jurassic Park 1 | 1992
 1800000 | JP2 | 1993
 1800000 | Die Hard | 1993
+1818316 | A movie | 1992
+1818316 | A nice movie | 1993
+1818316 | Very nice movie | 1994
+1818316 | Super nice movie | 1995
+1818316 | Extremely nice movie | 1996
 1929348 | Dark Knight | 2009
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
@@ -44,6 +48,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1936116 | Inside Man | 2006
+1936116 | The Shawshank Redemption | 1994
+1936116 | 12 Angry Men | 1957
+1936116 | Gladiator | 2000
+1936116 | Goodfellas | 1990
 1934196 | Harry Potter | 2001
 1934196 | Howl's Moving Castle | 2004
 1934196 | Iron Man | 2008
@@ -69,6 +78,16 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1907889 | Interstellar | 2014
+1907889 | ...And Justice For All | 1979
+1907889 | You Don't Know Jack | 2010
+1907889 | The Silence of The Lambs | 1991
+1907889 | Saving Private Ryan | 1998
+1946183 | Die hard | 2000
+1946183 | Die hard | 2001
+1946183 | Die hard | 2002
+1946183 | Die hard | 2003
+1946183 | Die hard | 2004
 1722450 | Shutter Island | 2010
 1722450 | Old Boy | 2003
 1722450 | Ex Machina | 2014
@@ -85,6 +104,7 @@ Student ID | Movie | Year of Release
 1802944| Now you see me | 2013
 1802944| The dictator | 2012
 1802944| The maze runner | 2014
+1920389 | The Wolf of Wallstreet | 2013
 1924144 | Down by Law | 1986
 1924144 | Fear and Loathing in Las Vegas | 1998
 1924144 | Life of Brian | 1979
