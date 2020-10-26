@@ -25,6 +25,7 @@ Student ID | Movie | Year of Release
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
 1929348| Captain Marvel| 2019
+1922036| The Wolf of Wall Street | 2013
 1929348| Thor Ragnarok | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
