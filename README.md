@@ -64,3 +64,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1932139 | The Martian | 2015
+1932139 | Ender's Game | 2013
+1932139 | Die Hard 4: Live Free | 2007
+1932139 | Eagle Eye | 2008
+1932139 | Skyfall | 2012
