@@ -64,3 +64,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1802944| The Wolf of Wallstreet | 2013
+1802944| Limitless | 2011
+1802944| Now you see me | 2013
+1802944| The dictator | 2012
+1802944| The maze runner | 2014
