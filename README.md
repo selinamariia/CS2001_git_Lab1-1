@@ -69,3 +69,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1922977 | Scott Pilgrim vs. the World | 2010
+1922977 | The Shining | 1980
+1922977 | The Handmaiden | 2016
+1922977 | The Help | 2011
+1922977 | Hereditary | 2018
