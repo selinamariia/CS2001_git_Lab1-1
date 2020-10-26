@@ -41,3 +41,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1818181 | How To Train Your Dragon | 2010
+1818181 | Inception | 2010
+1818181 | Shrek | 2001
+1818181 | Goodfellas | 1990
+1818181 | Ferris Bueller's Day Off | 1986
