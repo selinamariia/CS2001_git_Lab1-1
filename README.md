@@ -46,3 +46,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1924742 | Goodfellas | 1990
+1924742 | The Dark Knight | 2008
+1924742 | Deadpool | 2016
+1924742 | Thor Ragnorok| 2017
+1924742 | Max Max fury Road | 2015
