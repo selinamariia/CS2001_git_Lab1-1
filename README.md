@@ -69,3 +69,8 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1920481 | The Wolf of Wallstreet | 2013
+1920481 | Shrek | 2001
+1920481 | Lone Survivor | 2013
+1920481 | 13 Hours: The Secret Soldiers | 2016
+1920481 | Cars 2 | 2011
