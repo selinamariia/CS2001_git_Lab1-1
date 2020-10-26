@@ -50,4 +50,4 @@ Student ID | Movie | Year of Release
 1920481 | Shrek | 2001
 1920481 | Lone Survivor | 2013
 1920481 | 13 Hours: The Secret Soldiers | 2016
-1920481 | American Sniper | 2014
+1920481 | Cars 2 | 2011
