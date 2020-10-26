@@ -88,5 +88,5 @@ Student ID | Movie | Year of Release
 1945027 | Batman Begins | 2005
 1945027 | Iron Man | 2008
 1945027 | Dark Knight | 2009
-1945027 | Dark Rises | 2012
+1945027 | Dark Knight Rises | 2012
 1945027 | Avengers Endgame | 2019
