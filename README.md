@@ -15,11 +15,12 @@ Lets get started.
 
 ---
 
-### Movie database CS2001 
+### Movie database CS2001
 
 ---
 
-Student ID | Movie | Year of Release 
+
+Student ID | Movie | Year of Release
 --- | --- | ---
 1808245 | Dark Knight | 2009
 1808245 | Avengers | 2001
@@ -43,6 +44,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1934196 | Harry Potter | 2001
+1934196 | Howl's Moving Castle | 2004
+1934196 | Iron Man | 2008
+1934196 | The Social Network | 2010
+1934196 | Zindagi Na Milegi Dobara | 2011
 1820275| The Dark Knight | 2008
 1820275| The Irishman | 2019
 1820275| Casino | 1995
@@ -63,7 +69,16 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
-<<<<<<< Updated upstream
+1946183 | Die hard | 2000
+1946183 | Die hard | 2001
+1946183 | Die hard | 2002
+1946183 | Die hard | 2003
+1946183 | Die hard | 2004
+1722450 | Shutter Island | 2010
+1722450 | Old Boy | 2003
+1722450 | Ex Machina | 2014
+1722450 | The Cabin in the Woods | 2011
+1722450 | The Lighthouse | 2019
 1945582 | The Internship | 2013
 1945582 | Avengers: Endgame | 2019
 1945582 | Iron Man | 2008
@@ -75,10 +90,8 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
-=======
 1917124 | The Mask | 1994
 1917124 | Avengers | 2019
 1917124 | The Mask Of Zorro | 1998
 1917124 | One Piece Stampede | 2019
 1917124 | Aladdin | 2019
->>>>>>> Stashed changes
