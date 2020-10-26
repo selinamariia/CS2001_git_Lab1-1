@@ -36,3 +36,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1905101 | Ride Along | 2014
+1905101 | The Internship | 2013
+1905101 | Harry Potter | 2001
+1905101 | Percy Jackson | 2010
+1905101 | Central Intelligence | 2016
