@@ -110,3 +110,4 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1918683 | Full Metal Jacket | 1987
