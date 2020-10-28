@@ -4,7 +4,7 @@
 
 
 Do not make any modifications above this line.
----
+---/Users/keeleygardner/Documents/GitHub/CS2001_git_Lab1/README.md
 
 This is a database of our favourite movies:
 
@@ -31,6 +31,31 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1904553 | Diary of a Wimpy Kid | 2010
+1904553 | Diary of a Wimpy Kid: Roderick Rules | 2011
+1904553 | Diary of a Wimpy Kid: Dog Days | 2012
+1904553 | Legally Blonde | 2001
+1904553 | Scooby-Doo 2: Monsters Unleashed | 2004
+1506575 | Avengers End Game 1 | 2019
+1506575 | Black Panther 5 | 2018
+1506575 | 3 Idiots | 2009 |
+1506575 | Jurassic Park 01 | 1992
+1506575 | Joker1 | 2019
+1936116 | Inside Man | 2006
+1936116 | The Shawshank Redemption | 1994
+1936116 | 12 Angry Men | 1957
+1936116 | Gladiator | 2000
+1936116 | Goodfellas | 1990
+1934196 | Harry Potter | 2001
+1934196 | Howl's Moving Castle | 2004
+1934196 | Iron Man | 2008
+1934196 | The Social Network | 2010
+1934196 | Zindagi Na Milegi Dobara | 2011
+1820275| The Dark Knight | 2008
+1820275| The Irishman | 2019
+1820275| Casino | 1995
+1820275| Howl's Moving Castle | 2004
+1820275| Deadpool | 2016
 1806529 | Shawshank Redemption | 1990
 1806529 | Scarface |1989
 1806529 | Titanic | 1995
