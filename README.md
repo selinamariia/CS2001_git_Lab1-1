@@ -205,3 +205,8 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+1945204 | Avengers: Infinity War | 2018
+1945204 | The Dark Knight | 2008
+1945204 | Inception | 2010
+1945204 | Parasite | 2019
+1945204 | Interstellar | 2014
