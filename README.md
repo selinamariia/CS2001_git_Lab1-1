@@ -15,11 +15,11 @@ Lets get started.
 
 ---
 
-### Movie database CS2001 
+### Movie database CS2001
 
 ---
 
-Student ID | Movie | Year of Release 
+Student ID | Movie | Year of Release
 ---|---|---|
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
@@ -46,3 +46,8 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1937226 | 8 Mile | 2002
+1937226 | How High | 2001
+1937226 | My Sassy Girl | 2008
+1937226 | The Butterfly Effect | 2004
+1937226 | The Hitchhikers Guide to the Galaxy | 2005
