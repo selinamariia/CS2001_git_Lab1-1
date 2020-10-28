@@ -81,6 +81,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1903268 | Toy Story 2 | 2000
+1903268 | Black Panther | 2018
+1903268 | Spider-Man: Into the Spider-Verse | 2018
+1903268 | Parasite | 2019
+1903268 | The Shining | 1980
 1906971 | Scarface | 1983
 1906971 | John Wick 2 | 2017
 1906971 | Venom | 2018
