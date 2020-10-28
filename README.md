@@ -119,6 +119,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1945027 | Batman Begins | 2005
+1945027 | Iron Man | 2008
+1945027 | Dark Knight | 2009
+1945027 | Dark Knight Rises | 2012
+1945027 | Avengers Endgame | 2019
 1923029 | The Fate of the Furious | 2017
 1923029 | Avengers Infinity War | 2018
 1923029 | Avengers Endgame | 2019
@@ -159,4 +164,3 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
-
