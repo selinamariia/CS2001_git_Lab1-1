@@ -48,6 +48,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1506575 | Avengers End Game 1 | 2019
+1506575 | Black Panther 5 | 2018
+1506575 | 3 Idiots | 2009 | 
+1506575 | Jurassic Park 01 | 1992
+1506575 | Joker1 | 2019 
 1936116 | Inside Man | 2006
 1936116 | The Shawshank Redemption | 1994
 1936116 | 12 Angry Men | 1957
