@@ -119,6 +119,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1922977 | Scott Pilgrim vs. the World | 2010
+1922977 | The Shining | 1980
+1922977 | The Handmaiden | 2016
+1922977 | The Help | 2011
+1922977 | Hereditary | 2018
 1917124 | The Mask | 1994
 1917124 | Avengers | 2019
 1917124 | The Mask Of Zorro | 1998
