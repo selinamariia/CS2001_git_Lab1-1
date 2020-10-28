@@ -86,6 +86,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1842579 | The Family | 2013
+1842579 | We're the Millers | 2013
+1842579 | Just Go With It | 2011
+1842579 | Ant man | 2015
+1842579 | Thor Ragnarok | 2017
 1818181 | How To Train Your Dragon | 2010
 1818181 | Inception | 2010
 1818181 | Shrek | 2001
