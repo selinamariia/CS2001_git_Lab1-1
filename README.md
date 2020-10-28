@@ -175,11 +175,6 @@ Student ID | Movie | Year of Release
 1830274 | Central Intelligence | 2016
 1830274 | Ride Along | 2014
 1830274 | Night School | 2018
-1914876 | IDK movie 1 | 2001
-1914876 | IDK movie 2 | 2002
-1914876 | IDK movie 3 | 2003
-1914876 | IDK movie 4 | 2004
-1914876 | IDK movie 5 | 2005
 1815685 | Goodfellas | 1990
 1815685 | Goodfellas | 1990
 1815685 | Goodfellas | 1990
@@ -200,3 +195,8 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+1914876 | IDK movie 1 | 2001
+1914876 | IDK movie 2 | 2002
+1914876 | IDK movie 3 | 2003
+1914876 | IDK movie 4 | 2004
+1914876 | IDK movie 5 | 2005
