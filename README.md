@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1906217|good movie|2001
+1906217|hardmoview|2002
+1906217|mediummovie|2003
+1906217|movie|2004
+1906217|okmovie|2005
 1808245 | Dark Knight | 2009
 1808245 | Avengers | 2001
 1800000 | Jurassic Park 1 | 1992
