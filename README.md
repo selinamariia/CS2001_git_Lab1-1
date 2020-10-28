@@ -119,6 +119,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1830274 | American Pie | 1999
+1830274 | Bad Boys For Life | 2020
+1830274 | Central Intelligence | 2016
+1830274 | Ride Along | 2014
+1830274 | Night School | 2018
 1914876 | IDK movie 1 | 2001
 1914876 | IDK movie 2 | 2002
 1914876 | IDK movie 3 | 2003
