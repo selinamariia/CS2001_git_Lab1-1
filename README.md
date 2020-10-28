@@ -271,3 +271,8 @@ Student ID | Movie | Year of Release
 1914876 | IDK movie 3 | 2003
 1914876 | IDK movie 4 | 2004
 1914876 | IDK movie 5 | 2005
+1939797 | The Silence of the Lambs | 1991
+1939797 | Back to the Future | 1985
+1939797 | Whiplash | 2014
+1939797 | Star Wars | 1977
+1939797 | Train to Busan | 2016
