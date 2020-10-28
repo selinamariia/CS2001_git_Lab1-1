@@ -114,6 +114,11 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1802944| The Wolf of Wallstreet | 2013
+1802944| Limitless | 2011
+1802944| Now you see me | 2013
+1802944| The dictator | 2012
+1802944| The maze runner | 2014
 1813284 | Inception | 2010
 1813284 | Dragon Ball Super: Broly | 2018
 1813284 | John Wick : Chapter 2 | 2017
@@ -124,6 +129,7 @@ Student ID | Movie | Year of Release
 1924144 | Fear and Loathing in Las Vegas | 1998
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
+1924144 | Mommy | 2014
 1924144 | Mommy | 2014
 1922977 | Scott Pilgrim vs. the World | 2010
 1922977 | The Shining | 1980
