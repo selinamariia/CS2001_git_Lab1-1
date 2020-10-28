@@ -54,9 +54,9 @@ Student ID | Movie | Year of Release
 1904553 | Scooby-Doo 2: Monsters Unleashed | 2004
 1506575 | Avengers End Game 1 | 2019
 1506575 | Black Panther 5 | 2018
-1506575 | 3 Idiots | 2009 | 
+1506575 | 3 Idiots | 2009 |
 1506575 | Jurassic Park 01 | 1992
-1506575 | Joker1 | 2019 
+1506575 | Joker1 | 2019
 1936116 | Inside Man | 2006
 1936116 | The Shawshank Redemption | 1994
 1936116 | 12 Angry Men | 1957
@@ -246,6 +246,11 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+1921235 | The Equalizer | 2014
+1921235 | Divergent | 2014
+1921235 | Finding Nemo | 2003
+1921235 | Creed | 2015
+1921235 | The Photograph | 2020
 1945960 | Mission Impossible | 1996
 1945960 | Iron Man | 2008
 1945960 | Captain America: The First Avenger | 2011
