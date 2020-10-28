@@ -4,7 +4,7 @@
 
 
 Do not make any modifications above this line.
----
+---/Users/keeleygardner/Documents/GitHub/CS2001_git_Lab1/README.md
 
 This is a database of our favourite movies:
 
@@ -35,9 +35,8 @@ Student ID | Movie | Year of Release
 1929348| Avengers | 2001
 1929348| Avengers Endgame | 2019
 1929348| Captain Marvel| 2019
+1922036| The Wolf of Wall Street | 2013
 1929348| Thor Ragnarok | 2017
-1919325| Avengers Endgame | 2019
-1919325| Spider-Man Homecoming | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
@@ -48,6 +47,11 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1904553 | Diary of a Wimpy Kid | 2010
+1904553 | Diary of a Wimpy Kid: Roderick Rules | 2011
+1904553 | Diary of a Wimpy Kid: Dog Days | 2012
+1904553 | Legally Blonde | 2001
+1904553 | Scooby-Doo 2: Monsters Unleashed | 2004
 1506575 | Avengers End Game 1 | 2019
 1506575 | Black Panther 5 | 2018
 1506575 | 3 Idiots | 2009 | 
@@ -83,6 +87,47 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1832373 | The Wailing | 2016
+1832373 | Train to Busan | 2016
+1832373 | The Vigil | 2019
+1832373 | REC | 2007
+1832373 | The Fourth Kind | 2009
+2011203 | Fast & Furious 8 | 2017
+2011203 | The Conjuring 2| 2016
+2011203 | Spiderman - Far From Home | 2019
+2011203 | The Dark Knight | 2008
+2011203 | Blitz | 2012
+1821676 | Mad Max Fury Road |2015
+1821676 | The Dark Knight | 2008
+1821676 | Inception | 2010
+1821676 | The Wolf of Wallstreet | 2013
+1821676 | Spider-Man: Homecoming | 2017
+1906714 | Avengers: Endgame123 | 2019
+1906714 | Scarface123 | 1989
+1842579 | The Family | 2013
+1842579 | We're the Millers | 2013
+1842579 | Just Go With It | 2011
+1842579 | Ant man | 2015
+1842579 | Thor Ragnarok | 2017
+1818181 | How To Train Your Dragon | 2010
+1818181 | Inception | 2010
+1818181 | Shrek | 2001
+1818181 | Goodfellas | 1990
+1818181 | Ferris Bueller's Day Off | 1986
+1905101 | Ride Along | 2014
+1905101 | The Internship | 2013
+1905101 | Harry Potter | 2001
+1905101 | Percy Jackson | 2010
+1903268 | Toy Story 2 | 2000
+1903268 | Black Panther | 2018
+1903268 | Spider-Man: Into the Spider-Verse | 2018
+1903268 | Parasite | 2019
+1903268 | The Shining | 1980
+1906971 | Scarface | 1983
+1906971 | John Wick 2 | 2017
+1906971 | Venom | 2018
+1906971 | The Hobbit : Battle of the Five Armies | 2014
+1906971 | LOTR Return of the King | 2003
 1924742 | Goodfellas | 1990
 1924742 | The Dark Knight | 2008
 1924742 | Deadpool | 2016
@@ -140,6 +185,12 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+2016951 | Interstellar | 2014
+2016951 | Inception | 2010
+2016951 | Avatar | 2009
+2016951 | The Dark Knight | 2008
+2016951 | The Shawshank Redemption | 1994
+1918683 | Full Metal Jacket | 1987
 1922977 | Scott Pilgrim vs. the World | 2010
 1922977 | The Shining | 1980
 1922977 | The Handmaiden | 2016
@@ -175,11 +226,6 @@ Student ID | Movie | Year of Release
 1830274 | Central Intelligence | 2016
 1830274 | Ride Along | 2014
 1830274 | Night School | 2018
-1914876 | IDK movie 1 | 2001
-1914876 | IDK movie 2 | 2002
-1914876 | IDK movie 3 | 2003
-1914876 | IDK movie 4 | 2004
-1914876 | IDK movie 5 | 2005
 1815685 | Goodfellas | 1990
 1815685 | Goodfellas | 1990
 1815685 | Goodfellas | 1990
@@ -205,3 +251,13 @@ Student ID | Movie | Year of Release
 1945960 | Captain America: The First Avenger | 2011
 1945960 | Wall.E | 2008
 1945960 | Avengers: Infinity War | 2018
+1945204 | Avengers: Infinity War | 2018
+1945204 | The Dark Knight | 2008
+1945204 | Inception | 2010
+1945204 | Parasite | 2019
+1945204 | Interstellar | 2014
+1914876 | IDK movie 1 | 2001
+1914876 | IDK movie 2 | 2002
+1914876 | IDK movie 3 | 2003
+1914876 | IDK movie 4 | 2004
+1914876 | IDK movie 5 | 2005
