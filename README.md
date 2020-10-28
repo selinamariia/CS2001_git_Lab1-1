@@ -246,6 +246,11 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+1945960 | Mission Impossible | 1996
+1945960 | Iron Man | 2008
+1945960 | Captain America: The First Avenger | 2011
+1945960 | Wall.E | 2008
+1945960 | Avengers: Infinity War | 2018
 1945204 | Avengers: Infinity War | 2018
 1945204 | The Dark Knight | 2008
 1945204 | Inception | 2010
