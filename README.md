@@ -114,6 +114,11 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1920481 | The Wolf of Wallstreet | 2013
+1920481 | Shrek | 2001
+1920481 | Lone Survivor | 2013
+1920481 | 13 Hours: The Secret Soldiers | 2016
+1920481 | Cars 2 | 2011
 1802944| The Wolf of Wallstreet | 2013
 1802944| Limitless | 2011
 1802944| Now you see me | 2013
@@ -129,7 +134,6 @@ Student ID | Movie | Year of Release
 1924144 | Fear and Loathing in Las Vegas | 1998
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
-1924144 | Mommy | 2014
 1924144 | Mommy | 2014
 1922977 | Scott Pilgrim vs. the World | 2010
 1922977 | The Shining | 1980
