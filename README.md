@@ -119,6 +119,11 @@ Student ID | Movie | Year of Release
 1924144 | Life of Brian | 1979
 1924144 | Goodfellas | 1990
 1924144 | Mommy | 2014
+1923029 | The Fate of the Furious | 2017
+1923029 | Avengers Infinity War | 2018
+1923029 | Avengers Endgame | 2019
+1923029 | Black Panther | 2018
+1923029 | John Wick | 2015
 1932139 | The Martian | 2015
 1932139 | Ender's Game | 2013
 1932139 | Die Hard 4: Live Free | 2007
@@ -154,3 +159,4 @@ Student ID | Movie | Year of Release
 1842048 | Lord of the Rings | 2001-2003
 1842048 | Dark Knight | 2008
 1842048 | Schiendlers List |1993
+
