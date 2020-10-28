@@ -4,7 +4,7 @@
 
 
 Do not make any modifications above this line.
----
+---/Users/keeleygardner/Documents/GitHub/CS2001_git_Lab1/README.md
 
 This is a database of our favourite movies:
 
@@ -38,8 +38,6 @@ Student ID | Movie | Year of Release
 1929348| Thor Ragnarok | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
-1919325| Avengers Endgame | 2019
-1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
 1919325| A Quiet Place | 2018
 1919325| The Hangover | 2009
@@ -48,6 +46,16 @@ Student ID | Movie | Year of Release
 123456 | Jurassic Park 1 | 1992
 123456 | JP2 | 1993
 123456 | Die Hard | 1993
+1904553 | Diary of a Wimpy Kid | 2010
+1904553 | Diary of a Wimpy Kid: Roderick Rules | 2011
+1904553 | Diary of a Wimpy Kid: Dog Days | 2012
+1904553 | Legally Blonde | 2001
+1904553 | Scooby-Doo 2: Monsters Unleashed | 2004
+1506575 | Avengers End Game 1 | 2019
+1506575 | Black Panther 5 | 2018
+1506575 | 3 Idiots | 2009 | 
+1506575 | Jurassic Park 01 | 1992
+1506575 | Joker1 | 2019 
 1936116 | Inside Man | 2006
 1936116 | The Shawshank Redemption | 1994
 1936116 | 12 Angry Men | 1957
@@ -83,6 +91,37 @@ Student ID | Movie | Year of Release
 2011203 | Spiderman - Far From Home | 2019
 2011203 | The Dark Knight | 2008
 2011203 | Blitz | 2012
+1821676 | Mad Max Fury Road |2015
+1821676 | The Dark Knight | 2008
+1821676 | Inception | 2010
+1821676 | The Wolf of Wallstreet | 2013
+1821676 | Spider-Man: Homecoming | 2017
+1906714 | Avengers: Endgame123 | 2019
+1906714 | Scarface123 | 1989
+1842579 | The Family | 2013
+1842579 | We're the Millers | 2013
+1842579 | Just Go With It | 2011
+1842579 | Ant man | 2015
+1842579 | Thor Ragnarok | 2017
+1818181 | How To Train Your Dragon | 2010
+1818181 | Inception | 2010
+1818181 | Shrek | 2001
+1818181 | Goodfellas | 1990
+1818181 | Ferris Bueller's Day Off | 1986
+1905101 | Ride Along | 2014
+1905101 | The Internship | 2013
+1905101 | Harry Potter | 2001
+1905101 | Percy Jackson | 2010
+1903268 | Toy Story 2 | 2000
+1903268 | Black Panther | 2018
+1903268 | Spider-Man: Into the Spider-Verse | 2018
+1903268 | Parasite | 2019
+1903268 | The Shining | 1980
+1906971 | Scarface | 1983
+1906971 | John Wick 2 | 2017
+1906971 | Venom | 2018
+1906971 | The Hobbit : Battle of the Five Armies | 2014
+1906971 | LOTR Return of the King | 2003
 1924742 | Goodfellas | 1990
 1924742 | The Dark Knight | 2008
 1924742 | Deadpool | 2016
@@ -119,6 +158,16 @@ Student ID | Movie | Year of Release
 1945582 | The Social Network | 2010
 1945582 | Thunderbirds | 2004
 1920389 | The Wolf of Wallstreet | 2013
+1920481 | The Wolf of Wallstreet | 2013
+1920481 | Shrek | 2001
+1920481 | Lone Survivor | 2013
+1920481 | 13 Hours: The Secret Soldiers | 2016
+1920481 | Cars 2 | 2011
+1802944| The Wolf of Wallstreet | 2013
+1802944| Limitless | 2011
+1802944| Now you see me | 2013
+1802944| The dictator | 2012
+1802944| The maze runner | 2014
 1813284 | Inception | 2010
 1813284 | Dragon Ball Super: Broly | 2018
 1813284 | John Wick : Chapter 2 | 2017
