@@ -87,6 +87,11 @@ Student ID | Movie | Year of Release
 1920389 | Jurassic Park 1 | 1992
 1920389 |  Fight CLub | 1999
 1920389 | The Wolf of Wallstreet | 2013
+1832373 | The Wailing | 2016
+1832373 | Train to Busan | 2016
+1832373 | The Vigil | 2019
+1832373 | REC | 2007
+1832373 | The Fourth Kind | 2009
 2011203 | Fast & Furious 8 | 2017
 2011203 | The Conjuring 2| 2016
 2011203 | Spiderman - Far From Home | 2019
