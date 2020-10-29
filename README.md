@@ -341,6 +341,11 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1803870 | Avengers Endgame | 2019
+1803870 | Inception | 2010
+1803870 | The conjuring | 2013
+1803870 | The conjuring 2 | 2016
+1803870 | Dark Knight Rises | 2012
 1813361| The Godfather| 1972
 1813361| The matrix | 1999
 1813361| Gladiator| 2000
