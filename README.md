@@ -21,6 +21,7 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1836565|Shrek|2001
 1945102| Wild Child |2008
 1945102|Game Plan|2008
 1945102|Avatar|2010
