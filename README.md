@@ -389,3 +389,13 @@ Student ID | Movie | Year of Release
 1814493 | Pirates of the Caribbean | 2007
 1814493 | Your Name | 2016
 1814493 | Harry Potter and the Goblet of Fire | 2005
+1812139 | Parasite | 2019
+1812139 | Lucy| 2019
+1812139 | Your name| 2016
+1812139 | The Maze Runner|2014
+1812139 | Fast & Furious 5| 2011
+1909611 | Movie 1 | 2020
+1909611 | Movie 2 | 2020
+1909611 | Movie 3 | 2020
+1909611 | Movie 4 | 2020
+1909611 | Movie 5 | 2020
