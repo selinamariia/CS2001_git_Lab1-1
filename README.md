@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1945102| Wild Child |2008
+1945102|Game Plan|2008
+1945102|Avatar|2010
+1945102|Avengers|2019 
+1945102|Hotel for dogs|2010
 1923290|The Shawshank Redemption|1994
 1923290|The Godfather|1972
 1923290|The Dark Knight|2008
@@ -311,7 +316,7 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
-1803870 | Avengers: Endgame | 2019 
+1803870 | Avengers: Endgame | 2019
 1803870 | A Quiet Place | 2018
 1803870 | Inception | 2010
 1803870 | Interstellar | 2014
@@ -322,9 +327,9 @@ Student ID | Movie | Year of Release
 1805019 | Howl's Moving Castle | 2004
 1805019 | Pulp fiction | 1994
 1908406 | Avengers : Infinity War | 2018
-1908406 | Drive | 2011 
-1908406 | Train to Busan | 2016 
-1908406 | Emma | 2020 
+1908406 | Drive | 2011
+1908406 | Train to Busan | 2016
+1908406 | Emma | 2020
 1908406 | Whiplash | 2014  
 1944741 | Inception | 2010
 1944741 | Batman Begins  | 2005
@@ -341,11 +346,42 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1812385| Fast & Furious 7 | 2015 
+1812385| Logan | 2017 
+1812385| The Bank Job | 2008 
+1812385| The Dark Knight | 2008
+1812385| Avengers Infinity war | 2018
+1805927 | Your Name	| 2016
+1805927	| A Silent Voice | 2016
+1805927	| Dragon Ball Super: Broly | 2018
+1805927	| KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson | 2019
+1805927	| Rascal Does Not Dream of a Dreaming Girl | 2019
+1803870 | Avengers Endgame | 2019
+1803870 | Inception | 2010
+1803870 | The conjuring | 2013
+1803870 | The conjuring 2 | 2016
+1803870 | Dark Knight Rises | 2012
+1813361| The Godfather| 1972
+1813361| The matrix | 1999
+1813361| Gladiator| 2000
+1813361| The Lion King | 1994
+1813361| The shining | 1980
+1909611 | Avatar | Dunno
+1833927 | Spirited Away | 2001
+1833927 | Beasts of No Nation | 2015
+1833927 | Svaha | 2019
+1833927 | Insidious | 2010
+1833927 | Bandersnatch | 2018
+1815869 | Avengers: Endgame | 2019
+1815869 | Avatar | 2009
+1815869 | Titanic | 1997
+1815869 | Star Wars: Episode VII - The Force Awakens | 2015
+1815869 | Avengers: Infinity War | 2018
 1910456 | Tokyo Drift | 2005
 1945381 | Becoming Jane | 2007
-1945381 | Coco | 2017
 1945381 | Minion | 2015
 1945381 | Inside Out | 2015
+1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
 1812139 | Parasite | 2019
@@ -353,3 +389,8 @@ Student ID | Movie | Year of Release
 1812139 | Your name| 2016
 1812139 | The Maze Runner|2014
 1812139 | Fast & Furious 5| 2011
+1909611 | Movie 1 | 2020
+1909611 | Movie 2 | 2020
+1909611 | Movie 3 | 2020
+1909611 | Movie 4 | 2020
+1909611 | Movie 5 | 2020
