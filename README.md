@@ -341,6 +341,11 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1815869 | Avengers: Endgame | 2019
+1815869 | Avatar | 2009
+1815869 | Titanic | 1997
+1815869 | Star Wars: Episode VII - The Force Awakens | 2015
+1815869 | Avengers: Infinity War | 2018
 1910456 | Tokyo Drift | 2005
 1945381 | Becoming Jane | 2007
 1945381 | Coco | 2017
