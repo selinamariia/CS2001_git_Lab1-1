@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1945102| Wild Child |2008
+1945102|Game Plan|2008
+1945102|Avatar|2010
+1945102|Avengers|2019 
+1945102|Hotel for dogs|2010
 1923290|The Shawshank Redemption|1994
 1923290|The Godfather|1972
 1923290|The Dark Knight|2008
@@ -341,6 +346,11 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1812385| Fast & Furious 7 | 2015 
+1812385| Logan | 2017 
+1812385| The Bank Job | 2008 
+1812385| The Dark Knight | 2008
+1812385| Avengers Infinity war | 2018
 1805927 | Your Name	| 2016
 1805927	| A Silent Voice | 2016
 1805927	| Dragon Ball Super: Broly | 2018
@@ -369,8 +379,21 @@ Student ID | Movie | Year of Release
 1815869 | Avengers: Infinity War | 2018
 1910456 | Tokyo Drift | 2005
 1945381 | Becoming Jane | 2007
-1945381 | Coco | 2017
 1945381 | Minion | 2015
 1945381 | Inside Out | 2015
+1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+<<<<<<< HEAD
+1943699 |Mission Impossible |1996
+1943699 |Mission Impossible 2 |2000
+1943699 |Mission Impossible 3 |2006
+1943699 |Mission Impossible 4 |2011
+1943699 |Mission Impossible 5 |2015
+=======
+1909611 | Movie 1 | 2020
+1909611 | Movie 2 | 2020
+1909611 | Movie 3 | 2020
+1909611 | Movie 4 | 2020
+1909611 | Movie 5 | 2020
+>>>>>>> a14a7eb37bc783cdcd6b8ce7fa951cd2292a11b8
