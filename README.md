@@ -302,3 +302,8 @@ Student ID | Movie | Year of Release
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
 1932912 | Die Hard | 1989
+1807085 | Die Hard with a Vengeance| 1994
+1807085 | Into the Spiderverse | 2019
+1807085 | Harry Potter and the Chamber of Secrets | 2002
+1807085 | Movie 1 | 2004
+1807085 | Movie 2 | 2007
