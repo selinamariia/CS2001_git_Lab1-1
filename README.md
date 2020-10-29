@@ -327,6 +327,11 @@ Student ID | Movie | Year of Release
 1944741 | The Dark Night Rises | 2012
 1944741 | The Wolf of Wall Street | 2013
 1932912 | Die Hard | 1989
+1807085 | Die Hard with a Vengeance| 1994
+1807085 | Into the Spiderverse | 2019
+1807085 | Harry Potter and the Chamber of Secrets | 2002
+1807085 | Movie 1 | 2004
+1807085 | Movie 2 | 2007
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
