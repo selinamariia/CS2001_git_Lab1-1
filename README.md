@@ -271,3 +271,6 @@ Student ID | Movie | Year of Release
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
 1932912 | Die Hard | 1989
+1932912 | The notebook | 2004
+1932912 | Star Wars | 1977
+1932912 | Giant | 2011
