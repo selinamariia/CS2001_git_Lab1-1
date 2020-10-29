@@ -20,7 +20,33 @@ Lets get started.
 ---
 
 Student ID | Movie | Year of Release
----|---|---|
+--- | --- | ---
+1928039|Captain Marvel|2019
+1928039|Avengers: End Game|2019
+1928039|Random Movie|2020
+1928039|White Chicks|2009
+1928039|Life of Pi|2012
+1906217|good movie|2001
+1906217|hardmoview|2002
+1906217|mediummovie|2003
+1906217|movie|2004
+1906217|okmovie|2005
+1808245 | Dark Knight | 2009
+1808245 | Avengers | 2001
+1800000 | Jurassic Park 1 | 1992
+1800000 | JP2 | 1993
+1800000 | Die Hard | 1993
+1818316 | A movie | 1992
+1818316 | A nice movie | 1993
+1818316 | Very nice movie | 1994
+1818316 | Super nice movie | 1995
+1818316 | Extremely nice movie | 1996
+1929348 | Dark Knight | 2009
+1929348| Avengers | 2001
+1929348| Avengers Endgame | 2019
+1929348| Captain Marvel| 2019
+1922036| The Wolf of Wall Street | 2013
+1929348| Thor Ragnarok | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
