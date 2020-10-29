@@ -306,6 +306,11 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1803870 | Avengers: Endgame | 2019 
+1803870 | A Quiet Place | 2018
+1803870 | Inception | 2010
+1803870 | Interstellar | 2014
+1803870 | The Hitman's Bodyguard | 2017
 1805019 | Frozen 2 | 2019
 1805019 | Star Wars | 1977
 1805019 | The Martian | 2015
