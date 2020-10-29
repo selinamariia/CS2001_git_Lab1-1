@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1923290|The Shawshank Redemption|1994
+1923290|The Godfather|1972
+1923290|The Dark Knight|2008
+1923290|Schindler's List|1993
+1923290|Pulp Fiction|1994
 1928039|Captain Marvel|2019
 1928039|Avengers: End Game|2019
 1928039|Random Movie|2020
