@@ -305,7 +305,7 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
-1910456 | Tokyo Drift | 20051910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
 1945381 | Becoming Jane | 2007
 1945381 | Little Women | 2019
 1945381 | Minion | 2015
