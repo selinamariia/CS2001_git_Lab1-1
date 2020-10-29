@@ -361,6 +361,6 @@ Student ID | Movie | Year of Release
 1918375 | The Martian | 2015
 1918375 | Interstellar | 2014
 1918375 | Gladiator | 2000
-1918375 | Pokémon: Lucario and the Mystery of Mew | 2005
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
 1918375 | Dangal | 2016
 
