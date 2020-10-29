@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1822554| Shrek |2001
+1822554|Annabelle|2014
+1822554| Borat| 2006
+1822554| Suicide Squad| 2016
+1822554| Shark Tales| 2004
 1945102| Wild Child |2008
 1945102|Game Plan|2008
 1945102|Avatar|2010
