@@ -250,4 +250,23 @@ Student ID | Movie | Year of Release
 1914876 | IDK movie 3 | 2003
 1914876 | IDK movie 4 | 2004
 1914876 | IDK movie 5 | 2005
-
+1945023 | Little Women | 2019
+1945023 | Emma | 2020
+1945023 | Corpse Bride | 2005
+1945023 | The Notebook | 2004
+1945023 | The Truman Show | 1998
+1939797 | The Silence of the Lambs | 1991
+1939797 | Back to the Future | 1985
+1939797 | Whiplash | 2014
+1939797 | Star Wars | 1977
+1939797 | Train to Busan | 2016
+1946252 | Star Wars: Episode V - The Empire Strikes Back | 1980
+1946252 | Drive | 2011
+1946252 | Good Will Hunting | 1997
+1946252 | 12 Angry Men | 1957
+1946252 | Jagten | 2012
+1937226 | 8 Mile | 2002
+1937226 | How High | 2001
+1937226 | My Sassy Girl | 2008
+1937226 | The Butterfly Effect | 2004
+1937226 | The Hitchhikers Guide to the Galaxy | 2005
