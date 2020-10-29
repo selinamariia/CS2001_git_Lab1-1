@@ -20,7 +20,11 @@ Lets get started.
 ---
 
 Student ID | Movie | Year of Release
---- | --- | ---
+1945102| Wild Child |2008
+1945102|Game Plan|2008
+1945102|Avatar|2010
+1945102|Avengers|2019 
+1945102|Hotel for dogs|2010
 1928039|Captain Marvel|2019
 1928039|Avengers: End Game|2019
 1928039|Random Movie|2020
