@@ -20,28 +20,7 @@ Lets get started.
 ---
 
 Student ID | Movie | Year of Release
---- | --- | ---
-1906217|good movie|2001
-1906217|hardmoview|2002
-1906217|mediummovie|2003
-1906217|movie|2004
-1906217|okmovie|2005
-1808245 | Dark Knight | 2009
-1808245 | Avengers | 2001
-1800000 | Jurassic Park 1 | 1992
-1800000 | JP2 | 1993
-1800000 | Die Hard | 1993
-1818316 | A movie | 1992
-1818316 | A nice movie | 1993
-1818316 | Very nice movie | 1994
-1818316 | Super nice movie | 1995
-1818316 | Extremely nice movie | 1996
-1929348 | Dark Knight | 2009
-1929348| Avengers | 2001
-1929348| Avengers Endgame | 2019
-1929348| Captain Marvel| 2019
-1922036| The Wolf of Wall Street | 2013
-1929348| Thor Ragnarok | 2017
+---|---|---|
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
@@ -276,3 +255,8 @@ Student ID | Movie | Year of Release
 1946252 | Good Will Hunting | 1997
 1946252 | 12 Angry Men | 1957
 1946252 | Jagten | 2012
+1937226 | 8 Mile | 2002
+1937226 | How High | 2001
+1937226 | My Sassy Girl | 2008
+1937226 | The Butterfly Effect | 2004
+1937226 | The Hitchhikers Guide to the Galaxy | 2005
