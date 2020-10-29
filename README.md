@@ -281,6 +281,11 @@ Student ID | Movie | Year of Release
 1914876 | IDK movie 3 | 2003
 1914876 | IDK movie 4 | 2004
 1914876 | IDK movie 5 | 2005
+1908547 | Fast & Furious 7 | 2015
+1908547 | Fast & Furious 6 | 2013
+1908547 | Fast & Furious 5 | 2011
+1908547 | Fast & Furious 4 | 2009
+1908547 | The Fast & the Furious: Tokyo-Drift | 2006
 1945023 | Little Women | 2019
 1945023 | Emma | 2020
 1945023 | Corpse Bride | 2005
@@ -301,4 +306,13 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1944741 | Inception | 2010
+1944741 | Batman Begins  | 2005
+1944741 | The Dark Night | 2008
+1944741 | The Dark Night Rises | 2012
+1944741 | The Wolf of Wall Street | 2013
 1932912 | Die Hard | 1989
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
