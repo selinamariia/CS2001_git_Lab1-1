@@ -21,6 +21,11 @@ Lets get started.
 
 Student ID | Movie | Year of Release
 --- | --- | ---
+1928039|Captain Marvel|2019
+1928039|Avengers: End Game|2019
+1928039|Random Movie|2020
+1928039|White Chicks|2009
+1928039|Life of Pi|2012
 1906217|good movie|2001
 1906217|hardmoview|2002
 1906217|mediummovie|2003
