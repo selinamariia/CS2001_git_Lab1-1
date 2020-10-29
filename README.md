@@ -270,3 +270,8 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1805300 | Scarface | 1983
+1805300 | Paid in Full | 2002
+1805300 | Pulp Fiction | 1994
+1805300 | Kill Bill: Vol 1 | 2003
+1805300 | Training Day | 2001
