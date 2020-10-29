@@ -384,6 +384,11 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1836704 | Deadpool | 2016
+1836704 | The Gentlemen | 2019
+1836704 | The Lion King | 1994
+1836704 | Guava Island | 2019
+1836704 | Storks | 2016
 1918375 | The Martian | 2015
 1918375 | Interstellar | 2014
 1918375 | Gladiator | 2000
