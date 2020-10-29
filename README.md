@@ -20,7 +20,33 @@ Lets get started.
 ---
 
 Student ID | Movie | Year of Release
----|---|---|
+--- | --- | ---
+1928039|Captain Marvel|2019
+1928039|Avengers: End Game|2019
+1928039|Random Movie|2020
+1928039|White Chicks|2009
+1928039|Life of Pi|2012
+1906217|good movie|2001
+1906217|hardmoview|2002
+1906217|mediummovie|2003
+1906217|movie|2004
+1906217|okmovie|2005
+1808245 | Dark Knight | 2009
+1808245 | Avengers | 2001
+1800000 | Jurassic Park 1 | 1992
+1800000 | JP2 | 1993
+1800000 | Die Hard | 1993
+1818316 | A movie | 1992
+1818316 | A nice movie | 1993
+1818316 | Very nice movie | 1994
+1818316 | Super nice movie | 1995
+1818316 | Extremely nice movie | 1996
+1929348 | Dark Knight | 2009
+1929348| Avengers | 2001
+1929348| Avengers Endgame | 2019
+1929348| Captain Marvel| 2019
+1922036| The Wolf of Wall Street | 2013
+1929348| Thor Ragnarok | 2017
 1919325| Avengers Endgame | 2019
 1919325| Spider-Man Homecoming | 2017
 1919325| Shrek | 2001
@@ -235,6 +261,11 @@ Student ID | Movie | Year of Release
 1921235 | Finding Nemo | 2003
 1921235 | Creed | 2015
 1921235 | The Photograph | 2020
+1901796 | Avatar | 2009
+1901796 | Avengers End Game | 2019
+1901796 | Saw | 2004
+1901796 | Halloween | 2018
+1901796 | Need for Speed | 2014
 1945960 | Mission Impossible | 1996
 1945960 | Iron Man | 2008
 1945960 | Captain America: The First Avenger | 2011
@@ -250,6 +281,11 @@ Student ID | Movie | Year of Release
 1914876 | IDK movie 3 | 2003
 1914876 | IDK movie 4 | 2004
 1914876 | IDK movie 5 | 2005
+1908547 | Fast & Furious 7 | 2015
+1908547 | Fast & Furious 6 | 2013
+1908547 | Fast & Furious 5 | 2011
+1908547 | Fast & Furious 4 | 2009
+1908547 | The Fast & the Furious: Tokyo-Drift | 2006
 1945023 | Little Women | 2019
 1945023 | Emma | 2020
 1945023 | Corpse Bride | 2005
@@ -275,3 +311,18 @@ Student ID | Movie | Year of Release
 1803870 | Inception | 2010
 1803870 | Interstellar | 2014
 1803870 | The Hitman's Bodyguard | 2017
+1908406 | Avengers : Infinity War | 2018
+1908406 | Drive | 2011 
+1908406 | Train to Busan | 2016 
+1908406 | Emma | 2020 
+1908406 | Whiplash | 2014  
+1944741 | Inception | 2010
+1944741 | Batman Begins  | 2005
+1944741 | The Dark Night | 2008
+1944741 | The Dark Night Rises | 2012
+1944741 | The Wolf of Wall Street | 2013
+1932912 | Die Hard | 1989
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
+1910456 | Tokyo Drift | 2005
