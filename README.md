@@ -270,3 +270,8 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1805019 | Frozen 2 | 2019
+1805019 | Star Wars | 1977
+1805019 | The Martian | 2015
+1805019 | Howl's Moving Castle | 2004
+1805019 | Pulp fiction | 1994
