@@ -384,6 +384,11 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1812139 | Parasite | 2019
+1812139 | Lucy| 2019
+1812139 | Your name| 2016
+1812139 | The Maze Runner|2014
+1812139 | Fast & Furious 5| 2011
 1909611 | Movie 1 | 2020
 1909611 | Movie 2 | 2020
 1909611 | Movie 3 | 2020
