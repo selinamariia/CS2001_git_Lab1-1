@@ -348,3 +348,8 @@ Student ID | Movie | Year of Release
 1945381 | Inside Out | 2015
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1836704 | Deadpool | 2016
+1836704 | The Gentlemen | 2019
+1836704 | The Lion King | 1994
+1836704 | Guava Island | 2019
+1836704 | Storks | 2016
