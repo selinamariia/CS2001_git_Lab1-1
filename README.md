@@ -384,6 +384,11 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
+1918375 | The Martian | 2015
+1918375 | Interstellar | 2014
+1918375 | Gladiator | 2000
+1918375 | Pokémon: Lucario And The Mystery of Mew | 2005
+1918375 | Dangal | 2016
 1943699 |Mission Impossible | 1996
 1943699 |Mission Impossible 2 | 2000
 1943699 |Mission Impossible 3 | 2006
