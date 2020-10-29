@@ -275,4 +275,4 @@ Student ID | Movie | Year of Release
 1908547 | Fast & Furious 6 | 2013
 1908547 | Fast & Furious 5 | 2011
 1908547 | Fast & Furious 4 | 2009
-1908547 | The Fast & the Furious: Tokyo Drift | 2006
+1908547 | The Fast & the Furious: Tokyo-Drift | 2006
