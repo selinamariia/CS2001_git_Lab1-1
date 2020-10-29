@@ -311,6 +311,11 @@ Student ID | Movie | Year of Release
 1803870 | Inception | 2010
 1803870 | Interstellar | 2014
 1803870 | The Hitman's Bodyguard | 2017
+1805019 | Frozen 2 | 2019
+1805019 | Star Wars | 1977
+1805019 | The Martian | 2015
+1805019 | Howl's Moving Castle | 2004
+1805019 | Pulp fiction | 1994
 1908406 | Avengers : Infinity War | 2018
 1908406 | Drive | 2011 
 1908406 | Train to Busan | 2016 
