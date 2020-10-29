@@ -341,6 +341,11 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1805927 | Your Name	| 2016
+1805927	| A Silent Voice | 2016
+1805927	| Dragon Ball Super: Broly | 2018
+1805927	| KonoSuba: God's Blessing on this Wonderful World! Legend of Crimson | 2019
+1805927	| Rascal Does Not Dream of a Dreaming Girl | 2019
 1803870 | Avengers Endgame | 2019
 1803870 | Inception | 2010
 1803870 | The conjuring | 2013
