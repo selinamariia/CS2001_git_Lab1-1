@@ -384,16 +384,10 @@ Student ID | Movie | Year of Release
 1945381 | Coco | 2017
 1945381 | Little Women | 2019
 1945381 | Onward | 2020
-<<<<<<< HEAD
 1943699 |Mission Impossible |1996
 1943699 |Mission Impossible 2 |2000
 1943699 |Mission Impossible 3 |2006
 1943699 |Mission Impossible 4 |2011
 1943699 |Mission Impossible 5 |2015
-=======
-1909611 | Movie 1 | 2020
-1909611 | Movie 2 | 2020
-1909611 | Movie 3 | 2020
-1909611 | Movie 4 | 2020
-1909611 | Movie 5 | 2020
->>>>>>> a14a7eb37bc783cdcd6b8ce7fa951cd2292a11b8
+
+
