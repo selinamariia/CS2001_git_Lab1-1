@@ -311,6 +311,11 @@ Student ID | Movie | Year of Release
 1908406 | Train to Busan | 2016 
 1908406 | Emma | 2020 
 1908406 | Whiplash | 2014  
+1944741 | Inception | 2010
+1944741 | Batman Begins  | 2005
+1944741 | The Dark Night | 2008
+1944741 | The Dark Night Rises | 2012
+1944741 | The Wolf of Wall Street | 2013
 1932912 | Die Hard | 1989
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
