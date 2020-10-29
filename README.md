@@ -270,3 +270,4 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+1932912 | Die Hard | 1989
