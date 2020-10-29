@@ -270,8 +270,11 @@ Student ID | Movie | Year of Release
 1937226 | My Sassy Girl | 2008
 1937226 | The Butterfly Effect | 2004
 1937226 | The Hitchhikers Guide to the Galaxy | 2005
+<<<<<<< HEAD
 1944741 | Inception | 2010
 1944741 | Batman Begins  | 2005
 1944741 | The Dark Night | 2008
 1944741 | The Dark Night Rises | 2012
 1944741 | The Wolf of Wall Street | 2013
+=======
+>>>>>>> parent of 3c8e172... Update README.md
