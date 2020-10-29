@@ -341,6 +341,11 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1833927 | Spirited Away | 2001
+1833927 | Beasts of No Nation | 2015
+1833927 | Svaha | 2019
+1833927 | Insidious | 2010
+1833927 | Bandersnatch | 2018
 1815869 | Avengers: Endgame | 2019
 1815869 | Avatar | 2009
 1815869 | Titanic | 1997
