@@ -235,6 +235,11 @@ Student ID | Movie | Year of Release
 1921235 | Finding Nemo | 2003
 1921235 | Creed | 2015
 1921235 | The Photograph | 2020
+1901796 | Avatar | 2009
+1901796 | Avengers End Game | 2019
+1901796 | Saw | 2004
+1901796 | Halloween | 2018
+1901796 | Need for Speed | 2014
 1945960 | Mission Impossible | 1996
 1945960 | Iron Man | 2008
 1945960 | Captain America: The First Avenger | 2011
