@@ -336,3 +336,8 @@ Student ID | Movie | Year of Release
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
 1910456 | Tokyo Drift | 2005
+1812385| Fast & Furious 7 | 2015 
+1812385| Logan | 2017 
+1812385| The Bank Job | 2008 
+1812385| The Dark Knight | 2008
+1812385| Avengers Infinity war | 2018
